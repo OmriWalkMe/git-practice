@@ -11,8 +11,8 @@ make changes by creating, modifying, or deleting files
 
 stage your changes
 ```
-git add .
-git add my_changed_file.c
+git add .                 #add all of your changes
+git add my_changed_file.c #add certain files
 ```
 
 commit your changes
