@@ -30,6 +30,11 @@ fetch latest changes from remote repository
 git fetch origin
 ```
 
+bring your local master branch up to date with the remote master branch
+```
+git rebase origin/master
+```
+
 jump to a new branch
 ```
 git checkout -b feature/new_branch 
