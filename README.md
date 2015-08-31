@@ -86,3 +86,8 @@ git references
 https://www.atlassian.com/git/tutorial
 
 http://nvie.com/posts/a-successful-git-branching-model/
+
+[GIT Stage & Commit](https://docs.google.com/drawings/d/1xiTpqIep89EezF5F6ShygsVZPF_AwHuWA7QkZXB2XNE/pub?w=1179&h=367)
+[GIT Source Management](https://docs.google.com/drawings/d/1T4Dp0Lk7a1fzQG3_eVBCdBB2I1udqjKwPRaa9WdhX-w/pub?w=2822&h=916)
+[GIT Architecture](https://docs.google.com/drawings/d/1He1w1gT-_unXiK75ODtRSEc3qQJm4t1XoeonD5pAjXs/pub?w=1290&h=846)
+
